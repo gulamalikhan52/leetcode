@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/gulamalikhan52/leetcode/tree/master/0048-rotate-image) |
+| [0412-fizz-buzz](https://github.com/gulamalikhan52/leetcode/tree/master/0412-fizz-buzz) |
 | [1952-three-divisors](https://github.com/gulamalikhan52/leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/gulamalikhan52/leetcode/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gulamalikhan52/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/gulamalikhan52/leetcode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/gulamalikhan52/leetcode/tree/master/0867-transpose-matrix) |
 ## Number Theory
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/gulamalikhan52/leetcode/tree/master/0074-search-a-2d-matrix) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/gulamalikhan52/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
